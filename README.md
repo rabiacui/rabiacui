@@ -24,8 +24,8 @@ Hi 👋, I am Rabia Abdul Razaq from Pakistan.Researcher & Teacher by profession
 
 |  Degree 📘 | Obtained CGPA / % | Total CGPA / % | Institute | From | To |
 |  :-------- | :---------------: | :------------: | :------:  | :--: | :--: |
-|  MS(CS) | 3.37 | 4.00 | Comsats University Islamabad, Pakistan.  | 2017 | 2019 |
-|  BS(CS) | 3.74 | 4.00 | Govt. College University, Faisalabad, Pakistan.  | 2012 | 2016 |
+|  MS(PHYSICS) | 3.37 | 4.00 | Comsats University Islamabad, Pakistan.  | 2017 | 2019 |
+|  BS(PHYSICS) | 3.74 | 4.00 | Govt. College University, Faisalabad, Pakistan.  | 2012 | 2016 |
 |  F.Sc. (Pre-Engineering) | 66.72%, 734 | 1100 | Board of Intermediate and Secondary Eduction, Faisalabad, Pakistan.  | 2010 | 2012 |
 |  Matric (Science) | 79%, 799 | 1050 | Board of Intermediate and Secondary Eduction, Faisalabad, Pakistan. | 2008 | 2010 |
 
@@ -48,6 +48,22 @@ In my Master's, I learned the following Courses which motivated me to start my r
 | 9. | ****Thesis.**** | 6* | - | Approved |
 <br>
 
-# MS(CS) Thesis: 
+# MS(PHYSICS) Thesis: 
 <a href="#"> Entanglement Dynamics in Dissipative Environment for a Bipartite System </a>
 <br>
+
+# BS(PHYSICS) Project: 
+<a href="#"> Multi-Sensors Controlled Street Lights based on LDR Placed at Multiple Angles </a>
+<br>
+
+# Job Experiences:
+| Sr. No. | Post | Institute | From | To | Responsibilities |
+| :-----: | ------- | :----------: | :--: | :--: | :--: |
+| 1. | SENIOR LECTURER PHYSICS & SENIOR COORDINATOR | SUFFAH ISLAMIC SCHOOL SYSTEM | 01/09/2020 | Present | Senior Physics Teacher and Senior Coordinator
+Time Table Management
+Exam Schedule Management
+Expenditures Management |
+| 2. | SENIOR LECTURER PHYSICS & SENIOR COORDINATOR | SUFFAH ISLAMIC SCHOOL SYSTEM | 01/09/2020 | Present | Senior Physics Teacher and Senior Coordinator
+Time Table Management
+Exam Schedule Management
+Expenditures Management |
