@@ -61,3 +61,16 @@ In my Master's, I learned the following Courses which motivated me to start my r
 | :-----: | ------- | :----------: | :--: | :--: | -- |
 | 1. | SENIOR LECTURER PHYSICS & SENIOR COORDINATOR | SUFFAH ISLAMIC SCHOOL SYSTEM | 01/09/2020 | Present | Senior Physics Teacher and Senior Coordinator, Time Table Management, Exam Schedule Management, Expenditures Management |
 | 2. | QUANTUM OPTICS RESEARCH ASSISTANT |  COMSATS UNIVERSITY ISLAMABAD | 14/02/2019 | 15/07/2019 | Directly worked on Project: “entanglement dynamics of a bipartite system under dissipative threats, especially in case of thermal reservoir".<br> Funding Agency: HEC Pakistan, NRPU: 8864/NRPU/R&D/HEC/2017.<br> Helped Supervisor for Undergraduate Teaching by grading class assignments and quizzes |
+| 3. | LECTURER PHYSICS |  GOVT. DEGREE COLLEGE FOR WOMEN, Mamukamjan, Faisalabad. | 20/09/2016 | 14/05/2017 | Taught Physics Subject to A Level and Intermediate Students |
+
+
+<br><br>
+# ORGANISATIONAL SKILLS
+I have been assigned to multiple organization level duties and outperformed among all these BISE level assigned duties. Details are as follows:
+
+| Sr. No. | Subject | Performance | From | To |
+| :-----: | ------- | :----------: | :--: | :--: |
+| 1. | ****Deputy Superintendent Duty. | Managed & Conducted Board Exam at Designated Centre (Suffah Islamic School System)**** | 16/05/2022 | 08/06/2022 |
+| 2. | ****Sub Examiner Duty in FBISE.**** | Checked 11500 questions belongs to Chemistry Paper. | 2021 | 2021 |
+| 3. | ****Sub Examiner Duty in FBISE .**** | Checked 6500 questions from Physics Subject | 2022 | 2022 |
+
