@@ -71,7 +71,7 @@ I have been assigned to multiple organization level duties and outperformed amon
 
 | Sr. No. | Subject | Performance | From | To |
 | :-----: | ------- | :----------: | :--: | :--: |
-| 1. | ****Deputy Superintendent Duty. | Managed & Conducted Board Exam at Designated Centre (Suffah Islamic School System)**** | 16/05/2022 | 08/06/2022 |
+| 1. | ****Deputy Superintendent Duty.**** | Managed & Conducted Board Exam at Designated Centre (Suffah Islamic School System)**** | 16/05/2022 | 08/06/2022 |
 | 2. | ****Sub Examiner Duty in FBISE.**** | Checked 11500 questions belongs to Chemistry Paper. | 2021 | 2021 |
 | 3. | ****Sub Examiner Duty in FBISE .**** | Checked 6500 questions from Physics Subject | 2022 | 2022 |
 
