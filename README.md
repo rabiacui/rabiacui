@@ -58,6 +58,6 @@ In my Master's, I learned the following Courses which motivated me to start my r
 
 # Job Experiences:
 | Sr. No. | Post | Institute | From | To | Responsibilities |
-| :-----: | ------- | :----------: | :--: | :--: | :--: |
+| :-----: | ------- | :----------: | :--: | :--: | -- |
 | 1. | SENIOR LECTURER PHYSICS & SENIOR COORDINATOR | SUFFAH ISLAMIC SCHOOL SYSTEM | 01/09/2020 | Present | Senior Physics Teacher and Senior Coordinator, Time Table Management, Exam Schedule Management, Expenditures Management |
 | 2. | QUANTUM OPTICS RESEARCH ASSISTANT |  COMSATS UNIVERSITY ISLAMABAD | 14/02/2019 | 15/07/2019 | Directly worked on Project: “entanglement dynamics of a bipartite system under dissipative threats, especially in case of thermal reservoir".<br> Funding Agency: HEC Pakistan, NRPU: 8864/NRPU/R&D/HEC/2017.<br> Helped Supervisor for Undergraduate Teaching by grading class assignments and quizzes |
