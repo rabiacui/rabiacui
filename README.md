@@ -49,11 +49,11 @@ In my Master's, I learned the following Courses which motivated me to start my r
 | 9. | ****Thesis.**** | 6* | - | Approved |
 <br>
 
-# MS(PHYSICS) Thesis: 
+# MS(Physics) Thesis: 
 <a href="#"> Entanglement Dynamics in Dissipative Environment for a Bipartite System </a>
 <br>
 
-# BS(PHYSICS) Project: 
+# BS(Physics) Project: 
 <a href="#"> Multi-Sensors Controlled Street Lights based on LDR Placed at Multiple Angles </a>
 <br>
 
@@ -66,7 +66,7 @@ In my Master's, I learned the following Courses which motivated me to start my r
 
 
 <br><br>
-# ORGANISATIONAL SKILLS
+# Organizational Skills
 I have been assigned to multiple organization level duties and outperformed among all these BISE level assigned duties. Details are as follows:
 
 | Sr. No. | Subject | Performance | From | To |
