@@ -25,6 +25,7 @@ Hi 👋, I am Rabia Abdul Razaq from Pakistan.Researcher & Teacher by profession
 |  Degree 📘 | Obtained CGPA / % | Total CGPA / % | Institute | From | To |
 |  :-------- | :---------------: | :------------: | :------:  | :--: | :--: |
 |  MS(PHYSICS) | 3.37 | 4.00 | Comsats University Islamabad, Pakistan.  | 2017 | 2019 |
+|  B. ED (1.5 YEARS) | 1261 (70%) | 1800 | Allama Iqbal Open University, Islamabad, Pakistan.  | 2016 | 2019 |
 |  BS(PHYSICS) | 3.74 | 4.00 | Govt. College University, Faisalabad, Pakistan.  | 2012 | 2016 |
 |  F.Sc. (Pre-Engineering) | 66.72%, 734 | 1100 | Board of Intermediate and Secondary Eduction, Faisalabad, Pakistan.  | 2010 | 2012 |
 |  Matric (Science) | 79%, 799 | 1050 | Board of Intermediate and Secondary Eduction, Faisalabad, Pakistan. | 2008 | 2010 |
