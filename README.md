@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,4 +15,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-as
+# Rabia Abdul Razaq
+<br>
+
+Hi 👋, I am Rabia Abdul Razaq from Pakistan.Researcher & Teacher by profession. I love to find solution related to Quantum Optics. I love challenging tasks in my life.
+
+# My Qualifications 🎓: 
+
+|  Degree 📘 | Obtained CGPA / % | Total CGPA / % | Institute | From | To |
+|  :-------- | :---------------: | :------------: | :------:  | :--: | :--: |
+|  MS(CS) | 3.37 | 4.00 | Comsats University Islamabad, Pakistan.  | 2017 | 2019 |
+|  BS(CS) | 3.74 | 4.00 | Govt. College University, Faisalabad, Pakistan.  | 2012 | 2016 |
+|  F.Sc. (Pre-Engineering) | 66.72%, 734 | 1100 | Board of Intermediate and Secondary Eduction, Faisalabad, Pakistan.  | 2010 | 2012 |
+|  Matric (Science) | 79%, 799 | 1050 | Board of Intermediate and Secondary Eduction, Faisalabad, Pakistan. | 2008 | 2010 |
+
+<br>
+
+# Motivation for my Research Carrier⚡:
+<br>
+In my Master's, I learned the following Courses which motivated me to start my research carrier:
+
+| Sr. No. | Subject | Credit Hours | LG | GP |
+| :-----: | ------- | :----------: | :--: | :--: |
+| 1. | Mathematical and Computational Methods in Physics. | 3 | C | 7.50 |
+| 2. | **** Advance Quantum Physics.**** | 3 | B | 10.35 |
+| 3. | ****Quantum Computation I.**** | 3 | B | 9.0 |
+| 4. | ****Advanced Electromagnetism fields and waves.**** | 3 | B | 9.0 |
+| 5. | ****Surface Physics.**** | 3 | A | 10.50 |
+| 6. | ****Quantum Optics I.**** | 3 | A+ | 12.00 |
+| 7. | ****Quantum Optics II.**** | 3 | A | 11.40 |
+| 8. | ****Graduate Laboratory.**** | 3 | A | 11.10 |
+| 9. | ****Thesis.**** | 6* | - | Approved |
+<br>
+
+# MS(CS) Thesis: 
+<a href="https://github.com/rashidrao-pk/Master-Thesis-on-Object-Detection-and-Classification-Based-on-Fusion-of-SIFT-and-Deep-CNN-Features"> Object Detection and Classification: A Joint Selection and Fusion Strategy of Deep Convolutional Neural Network and SIFT Point Features </a>
+<br>
