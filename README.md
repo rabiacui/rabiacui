@@ -59,10 +59,7 @@ In my Master's, I learned the following Courses which motivated me to start my r
 # Job Experiences:
 | Sr. No. | Post | Institute | From | To | Responsibilities |
 | :-----: | ------- | :----------: | :--: | :--: | :--: |
-| 1. | SENIOR LECTURER PHYSICS & SENIOR COORDINATOR | SUFFAH ISLAMIC SCHOOL SYSTEM | 01/09/2020 | Present | Senior Physics Teacher and Senior Coordinator
-Time Table Management
-Exam Schedule Management
-Expenditures Management |
+| 1. | SENIOR LECTURER PHYSICS & SENIOR COORDINATOR | SUFFAH ISLAMIC SCHOOL SYSTEM | 01/09/2020 | Present | Senior Physics Teacher and Senior Coordinator, Time Table Management, Exam Schedule Management, Expenditures Management |
 | 2. | SENIOR LECTURER PHYSICS & SENIOR COORDINATOR | SUFFAH ISLAMIC SCHOOL SYSTEM | 01/09/2020 | Present | Senior Physics Teacher and Senior Coordinator
 Time Table Management
 Exam Schedule Management
