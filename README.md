@@ -38,7 +38,7 @@ In my Master's, I learned the following Courses which motivated me to start my r
 | Sr. No. | Subject | Credit Hours | LG | GP |
 | :-----: | ------- | :----------: | :--: | :--: |
 | 1. | Mathematical and Computational Methods in Physics. | 3 | C | 7.50 |
-| 2. | **** Advance Quantum Physics.**** | 3 | B | 10.35 |
+| 2. | ****Advance Quantum Physics.**** | 3 | B | 10.35 |
 | 3. | ****Quantum Computation I.**** | 3 | B | 9.0 |
 | 4. | ****Advanced Electromagnetism fields and waves.**** | 3 | B | 9.0 |
 | 5. | ****Surface Physics.**** | 3 | A | 10.50 |
@@ -49,5 +49,5 @@ In my Master's, I learned the following Courses which motivated me to start my r
 <br>
 
 # MS(CS) Thesis: 
-<a href="https://github.com/rashidrao-pk/Master-Thesis-on-Object-Detection-and-Classification-Based-on-Fusion-of-SIFT-and-Deep-CNN-Features"> Object Detection and Classification: A Joint Selection and Fusion Strategy of Deep Convolutional Neural Network and SIFT Point Features </a>
+<a href="#"> Entanglement Dynamics in Dissipative Environment for a Bipartite System </a>
 <br>
