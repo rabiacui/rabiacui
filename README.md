@@ -50,11 +50,11 @@ In my Master's, I learned the following Courses which motivated me to start my r
 <br>
 
 # MS(Physics) Thesis: 
-<a href="#"> Entanglement Dynamics in Dissipative Environment for a Bipartite System </a>
+<a href="https://github.com/rabia-rashid/Entanglement-Dynamics-in-Dissipative-Environment-for-a-Bipartite-System"> Entanglement Dynamics in Dissipative Environment for a Bipartite System </a>
 <br>
 
 # BS(Physics) Project: 
-<a href="#"> Multi-Sensors Controlled Street Lights based on LDR Placed at Multiple Angles </a>
+<a href="https://github.com/rabia-rashid/Multi-Sensors-Controlled-Street-Lights-based-on-LDR-Placed-at-Multiple-Angles"> Multi-Sensors Controlled Street Lights based on LDR Placed at Multiple Angles </a>
 <br>
 
 # Job Experiences:
