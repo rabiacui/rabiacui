@@ -24,11 +24,11 @@ Hi 👋, I am Rabia Abdul Razaq from Pakistan.Researcher & Teacher by profession
 
 |  Degree 📘 | Obtained CGPA / % | Total CGPA / % | Institute | From | To |
 |  :-------- | :---------------: | :------------: | ------  | :--: | :--: |
-|  MS(PHYSICS) | 3.37 | 4.00 | Comsats University Islamabad, Pakistan.  | 2017 | 2019 |
-|  B. ED (1.5 YEARS) | 1261 (70%) | 1800 | Allama Iqbal Open University, Islamabad, Pakistan.  | 2016 | 2019 |
-|  BS(PHYSICS) | 3.74 | 4.00 | Govt. College University, Faisalabad, Pakistan.  | 2012 | 2016 |
-|  F.Sc. (Pre-Engineering) | 66.72%, 734 | 1100 | Board of Intermediate and Secondary Eduction, Faisalabad, Pakistan.  | 2010 | 2012 |
-|  Matric (Science) | 79%, 799 | 1050 | Board of Intermediate and Secondary Eduction, Faisalabad, Pakistan. | 2008 | 2010 |
+|  MS(PHYSICS) | Comsats University Islamabad, Pakistan.  | 2017 | 2019 |
+|  B. ED (1.5 YEARS) | Allama Iqbal Open University, Islamabad, Pakistan.  | 2016 | 2019 |
+|  BS(PHYSICS) | Govt. College University, Faisalabad, Pakistan.  | 2012 | 2016 |
+|  F.Sc. (Pre-Engineering) | Board of Intermediate and Secondary Eduction, Faisalabad, Pakistan.  | 2010 | 2012 |
+|  Matric (Science) | Board of Intermediate and Secondary Eduction, Faisalabad, Pakistan. | 2008 | 2010 |
 
 <br>
 
@@ -38,14 +38,14 @@ In my Master's, I learned the following Courses which motivated me to start my r
 
 | Sr. No. | Subject | Credit Hours | LG | GP |
 | :-----: | ------- | :----------: | :--: | :--: |
-| 1. | Mathematical and Computational Methods in Physics. | 3 | C | 7.50 |
-| 2. | ****Advance Quantum Physics.**** | 3 | B | 10.35 |
-| 3. | ****Quantum Computation I.**** | 3 | B | 9.0 |
-| 4. | ****Advanced Electromagnetism fields and waves.**** | 3 | B | 9.0 |
-| 5. | ****Surface Physics.**** | 3 | A | 10.50 |
-| 6. | ****Quantum Optics I.**** | 3 | A+ | 12.00 |
-| 7. | ****Quantum Optics II.**** | 3 | A | 11.40 |
-| 8. | ****Graduate Laboratory.**** | 3 | A | 11.10 |
+| 1. | Mathematical and Computational Methods in Physics.
+| 2. | ****Advance Quantum Physics.**** 
+| 3. | ****Quantum Computation I.**** 
+| 4. | ****Advanced Electromagnetism fields and waves.****
+| 5. | ****Surface Physics.**** 
+| 6. | ****Quantum Optics I.**** 
+| 7. | ****Quantum Optics II.**** 
+| 8. | ****Graduate Laboratory.**** 
 | 9. | ****Thesis.**** | 6* | - | Approved |
 <br>
 
