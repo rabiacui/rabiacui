@@ -22,8 +22,8 @@ Hi 👋, I am Rabia Abdul Razaq from Pakistan.Researcher & Teacher by profession
 
 # My Qualifications 🎓: 
 
-|  Degree 📘 | Obtained CGPA / % | Total CGPA / % | Institute | From | To |
-|  :-------- | :---------------: | :------------: | ------  | :--: | :--: |
+|  Degree 📘 | Obtained CGPA / % | Total CGPA / % | Institute
+|  :-------- | :---------------: | :------------: | 
 |  MS(PHYSICS) | Comsats University Islamabad, Pakistan.  | 2017 | 2019 |
 |  B. ED (1.5 YEARS) | Allama Iqbal Open University, Islamabad, Pakistan.  | 2016 | 2019 |
 |  BS(PHYSICS) | Govt. College University, Faisalabad, Pakistan.  | 2012 | 2016 |
@@ -36,8 +36,8 @@ Hi 👋, I am Rabia Abdul Razaq from Pakistan.Researcher & Teacher by profession
 <br>
 In my Master's, I learned the following Courses which motivated me to start my research carrier:
 
-| Sr. No. | Subject | Credit Hours | LG | GP |
-| :-----: | ------- | :----------: | :--: | :--: |
+| Sr. No. | Subject | 
+| :-----: | ------- | 
 | 1. | Mathematical and Computational Methods in Physics.
 | 2. | ****Advance Quantum Physics.**** 
 | 3. | ****Quantum Computation I.**** 
