@@ -22,8 +22,8 @@ Hi 👋, I am Rabia Abdul Razaq from Pakistan.Researcher & Teacher by profession
 
 # My Qualifications 🎓: 
 
-|  Degree 📘 | Obtained CGPA / % | Total CGPA / % | Institute
-|  :-------- | :---------------: | :------------: | 
+|  Degree 📘  | Institute
+|  :-------- | :---------------: |
 |  MS(PHYSICS) | Comsats University Islamabad, Pakistan.  | 2017 | 2019 |
 |  B. ED (1.5 YEARS) | Allama Iqbal Open University, Islamabad, Pakistan.  | 2016 | 2019 |
 |  BS(PHYSICS) | Govt. College University, Faisalabad, Pakistan.  | 2012 | 2016 |
