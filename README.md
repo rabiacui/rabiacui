@@ -24,13 +24,14 @@ Hi 👋, I am Rabia Abdul Razaq from Pakistan.Researcher & Teacher by profession
 
 |  Degree 📘  | Institute
 |  :-------- | :---------------: |
+|  PhD(PHYSICS) | Università di Genova, Italy  | 2023 | 2026 |
 |  MS(PHYSICS) | Comsats University Islamabad, Pakistan.  | 2017 | 2019 |
-|  B. ED (1.5 YEARS) | Allama Iqbal Open University, Islamabad, Pakistan.  | 2016 | 2019 |
 |  BS(PHYSICS) | Govt. College University, Faisalabad, Pakistan.  | 2012 | 2016 |
-|  F.Sc. (Pre-Engineering) | Board of Intermediate and Secondary Eduction, Faisalabad, Pakistan.  | 2010 | 2012 |
-|  Matric (Science) | Board of Intermediate and Secondary Eduction, Faisalabad, Pakistan. | 2008 | 2010 |
 
 <br>
+
+# PhD Research Area⚡:
+Quantum Computing
 
 # Motivation for my Research Carrier⚡:
 <br>
@@ -63,7 +64,6 @@ In my Master's, I learned the following Courses which motivated me to start my r
 | 1. | Senior Lecturer Physics & Senior Coorinator | Suffah Islamic School System | 01/09/2020 | Present | Senior Physics Teacher and Senior Coordinator, Time Table Management, Exam Schedule Management, Expenditures Management |
 | 2. | Quantum Optics Research Assistant |  Comsats University Islamabad | 14/02/2019 | 15/07/2019 | Directly worked on Project: “entanglement dynamics of a bipartite system under dissipative threats, especially in case of thermal reservoir".<br> Funding Agency: HEC Pakistan, NRPU: 8864/NRPU/R&D/HEC/2017.<br> Helped Supervisor for Undergraduate Teaching by grading class assignments and quizzes |
 | 3. | Lecturer Physics |  Govt. Degree College for Women, Mamukamjan, Faisalabad. | 20/09/2016 | 14/05/2017 | Taught Physics Subject to A Level and Intermediate Students |
-
 
 <br><br>
 # Organizational Skills
