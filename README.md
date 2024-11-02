@@ -30,8 +30,11 @@ Hi 👋, I am Rabia Abdul Razaq from Pakistan.Researcher & Teacher by profession
 
 <br>
 
-# PhD Research Area⚡:
-Quantum Computing
+a. PhD(Physics) 2023-Present :
+Industrial PhD funded by INFN Italy
+
+Supervisor
+[Paolo Solinas](https://www.difi.unige.it/it/dipartimento/persone/paolo-solinas) , University of Genova, Genova, Italy
 
 # Motivation for my Research Carrier⚡:
 <br>
@@ -58,5 +61,21 @@ In my Master's, I learned the following Courses which motivated me to start my r
 <a href="https://github.com/rabia-rashid/Multi-Sensors-Controlled-Street-Lights-based-on-LDR-Placed-at-Multiple-Angles"> Multi-Sensors Controlled Street Lights based on LDR Placed at Multiple Angles </a>
 <br>
 
+#  Certificates of Courses:
+| Sr. No. | Certificate Name          | Issued By     |   Dated    | Grade (%) | Course Length | Certificate |
+| :---: | ------------------          | ------------  |   :---:    |   :---:   |   :---:       |     :---:   |
+| 1.    | Interfacing gravity and Quantum Physics       | VCQ & TURIS, Vienna, Austria  |  July 2024 |     -     |  March 2024   |  [LINK](https://github.com/rabiacui/rabiacui/blob/main/certificates/Certificate_of_Summer_School.pdf)   |
+| 2.    | Q-Bronze Quantum Computing and Programming workshop       | QWorld and QSlovenia, Online  |  April 2024 |     -     |  -   |  [LINK](https://github.com/rabiacui/rabiacui/blob/main/certificates/QBronze133-14.pdf)   |
+| 3.    | Python for Scientists       | DICCA, UniGe, Italy  |  July 2024 |     -     |  March 2024   |  [LINK](https://github.com/rabiacui/rabiacui/blob/main/certificates/cert_python_2024.pdf)   |
+
 # Job Experiences:
 PLease Look at [this readme file](experiences.md) to check my job experiences. 
+
+# Profile Links 📫:
+
+|  Platform | Link  |
+| --------- | ----- |
+|  Google Scholar  | [https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AL3_zigaFo-jFEoqbixzf1NTvAC4txi67JiYxZfC2wUYnsMbT_1tIbJ4pcbSVqOocEX7yZluudJlacJOjopX9Q&user=rDETcRwAAAAJ](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AL3_zigaFo-jFEoqbixzf1NTvAC4txi67JiYxZfC2wUYnsMbT_1tIbJ4pcbSVqOocEX7yZluudJlacJOjopX9Q&user=rDETcRwAAAAJ)  |
+| LinkedIn  | [https://www.linkedin.com/in/rabia-abdul-razaq/](https://www.linkedin.com/in/rabia-abdul-razaq/)  |
+| ResearchGate  | [https://www.researchgate.net/profile/Rabia-Abdul-Razaq](https://www.researchgate.net/profile/Rabia-Abdul-Razaq) |
+| Cousera  | [https://www.coursera.org/learner/rabia](https://www.coursera.org/learner/rabia)  |
